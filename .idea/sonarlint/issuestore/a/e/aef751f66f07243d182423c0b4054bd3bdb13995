@@ -1,0 +1,7 @@
+
+m	php:S2003"&Replace "include" with "include_once".(Óù’¡ûÿÿÿÿ8‡¥°§½2J$fd02e866-25cf-41c5-a210-b0087d448bb0
+h	php:S2003‹"&Replace "include" with "include_once".(ÐŒó,8‡¥°§½2J$fddc726f-f3ca-4526-af54-f3f428d32818
+w	php:S6600"0Remove the parentheses from this "include" call.(Óù’¡ûÿÿÿÿ8ˆ¥°§½2J$c4c442ac-a66b-4324-9587-f355cd6759c8
+r	php:S6600‹"0Remove the parentheses from this "include" call.(ÐŒó,8ˆ¥°§½2J$45e627c4-69b8-467f-b92a-cacc765b0cdc
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Óù’¡ûÿÿÿÿ8ˆ¥°§½2J$d4e1b3a0-b626-4975-9092-ba37fe919355
+Ž	php:S4833‹"LReplace "include" with namespace import mechanism through the "use" keyword.(ÐŒó,8ˆ¥°§½2J$ec469627-d6f6-44b6-9c78-a42882f8d37f

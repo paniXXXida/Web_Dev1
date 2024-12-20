@@ -1,0 +1,34 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+nginx.conf,e/d/ed8b45da44d73de79bd7c1c203a419d6ee7d6fde
+B
+docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
+D
+app/public/index.php,d/f/df187f96b153386aefda0ec4775d5524cf695467
+>
+PHP.Dockerfile,b/2/b237dce4c8a76d56b7cdfe507e61f82336214311
+J
+app/public/views/index.php,a/e/aef751f66f07243d182423c0b4054bd3bdb13995
+T
+$app/public/assets/javascript/main.js,f/d/fde72041bc99ba6eecf71fb57a1b51fbb5bb506e
+O
+app/public/assets/css/style.css,6/2/629859b7ca2aed20c16ffa6915cf0739e063bed7
+K
+app/public/routes/index.php,c/b/cbebef77e39cf0de366c62ff0d8c71e418df96e7
+P
+ app/public/views/pages/index.php,9/a/9af324f78f58e9c3801fb49300769dcf081659f5
+H
+app/public/lib/Route.php,2/7/27d4bbe4fded45ef1fee9e0531d28a31c0c737f4
+F
+app/public/lib/env.php,f/8/f8967c248d18ca186786071db67f687cad4e3f7b
+R
+"app/public/lib/error_reporting.php,4/b/4bacf7e7dcfb00a390001c3c6fb13e65d745a4b3
+T
+$app/public/views/partials/footer.php,6/f/6fe51c5ac533231d78e741b8093cc43749501338
+T
+$app/public/views/partials/header.php,a/c/ac1991a352399a75d7e53dc6d9b40b4fe81e3b9e
+O
+app/public/assets/css/media.css,c/c/cc854c47f9ab0e8851b1e7160ad618c26c631301

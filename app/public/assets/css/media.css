@@ -1,0 +1,92 @@
+@media (max-width:980px){
+    .card-for-us{
+        grid-template-columns: 49% 49%;
+    }
+    .contact{
+        display: none;
+    }
+    .main-menu>.wrap-menu{
+        display: none;
+        position: fixed;
+        background:#2b7572;
+        height: 100%;
+        width: 100%;
+        top: 0;
+    }
+    .wrap-menu div{
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .mobile{
+        display: flex;
+    }
+    .main-menu>.wrap-menu span+span{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .main-menu>.wrap-menu div+div{
+        margin-top: 10px;
+    }
+    .close{
+
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background:#Fff;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius:5px;
+    }
+    .wrap-contact-maps{
+        grid-template-columns: 100%;
+    }
+    .wrap-contact-maps .maps2{
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+
+}
+
+
+@media (max-width:720px){
+    .about-clinik{
+        grid-template-columns: 100%;
+    }
+    .card-for-us{
+        grid-template-columns: 100%;
+    }
+    .wrap-main-description h1{
+        font-size: 36px;
+        width: auto;
+    }
+    .wrap-main-description p{
+        font-size: 16px;
+        width: auto;
+    }
+    .wrap-main-description{
+        background:rgba(51, 51, 51, 0.5);
+        padding: 20px;
+        box-sizing:border-box;
+        border-radius:5px;
+        color:#fff;
+    }
+    .card-for-us>div>h4{
+        font-size: 18px;
+    }
+    .card-for-us>div>p{
+        font-size: 14px;
+    }
+    .header-our-services .title{
+        font-size: 24px;
+    }
+    .wrap-rew-title p{
+        font-size: 14px;
+    }
+    .wrap-rewiev{
+        font-size: 10px;
+    }
+}
