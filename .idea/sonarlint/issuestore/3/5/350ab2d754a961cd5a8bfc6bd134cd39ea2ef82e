@@ -1,0 +1,5 @@
+
+a	php:S1131:"@Remove the useless trailing whitespaces at the end of this line.(¦‚ˆÌøÿÿÿÿ8¹×àË¿2
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8¹×àË¿2
+{php:S115"[Rename this constant "table" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ë·®øÿÿÿÿ8¹×àË¿2
+Yphp:S113"'Add a new line at the end of this file.J$375ee056-65b9-48ea-89ae-538c0410c813

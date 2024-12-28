@@ -23,6 +23,8 @@ require_once(__DIR__ . "/lib/Route.php");
  *  Defines the routes that our application will ned
  */
 require_once(__DIR__ . "/routes/index.php");
+require_once(__DIR__ . "/routes/login.php");
+require_once(__DIR__ . "/routes/register.php");
 
 
 // Start the router, enabling handling requests
