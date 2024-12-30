@@ -16,7 +16,5 @@
 <?php include('views/partials/header.php'); ?>
 <?php include('views/partials/main_page_content.php'); ?>
 <?php include('views/partials/footer.php'); ?>
-
-
 </body>
 </html>

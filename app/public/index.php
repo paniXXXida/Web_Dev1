@@ -22,9 +22,18 @@ require_once(__DIR__ . "/lib/Route.php");
  * Require routes
  *  Defines the routes that our application will ned
  */
+require_once(__DIR__ . "/routes/account.php");
+require_once(__DIR__ . "/routes/add_appointment.php");
+require_once(__DIR__ . "/routes/add_pet.php");
+require_once(__DIR__ . "/routes/doctor.php");
+require_once(__DIR__ . "/routes/doctor_appointments.php");
+require_once(__DIR__ . "/routes/doctor_services.php");
+require_once(__DIR__ . "/routes/edit_appointment.php");
 require_once(__DIR__ . "/routes/index.php");
 require_once(__DIR__ . "/routes/login.php");
+require_once(__DIR__ . "/routes/profile.php");
 require_once(__DIR__ . "/routes/register.php");
+
 
 
 // Start the router, enabling handling requests
