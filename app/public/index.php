@@ -25,6 +25,7 @@ require_once(__DIR__ . "/lib/Route.php");
 require_once(__DIR__ . "/routes/account.php");
 require_once(__DIR__ . "/routes/add_appointment.php");
 require_once(__DIR__ . "/routes/add_pet.php");
+require_once(__DIR__ . "/routes/contact.php");
 require_once(__DIR__ . "/routes/doctor.php");
 require_once(__DIR__ . "/routes/doctor_appointments.php");
 require_once(__DIR__ . "/routes/doctor_services.php");

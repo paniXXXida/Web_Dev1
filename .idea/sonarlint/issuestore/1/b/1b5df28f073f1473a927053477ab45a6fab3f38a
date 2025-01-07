@@ -1,10 +1,10 @@
 
-h	php:S2003"&Replace "include" with "include_once".(Ë‰ƒ8»À2J$263018f5-e382-4d70-90b5-3667a69a80fa
-m	php:S2003"&Replace "include" with "include_once".(ôˆĞÂüÿÿÿÿ8»À2J$f8e4ffb8-b4a7-4b17-b77b-992ddeae539b
-m	php:S2003"&Replace "include" with "include_once".(ğŸıÿÿÿÿ8òË’À2J$21b4f949-64f5-4922-bb4e-678f8ee679d5
-r	php:S6600"0Remove the parentheses from this "include" call.(Ë‰ƒ8»À2J$b91861e0-890e-49eb-97ad-f7a5d6e7e1b0
-w	php:S6600"0Remove the parentheses from this "include" call.(ôˆĞÂüÿÿÿÿ8»À2J$a9636ce6-4439-46d1-85f2-5ec2ef7e3895
-w	php:S6600"0Remove the parentheses from this "include" call.(ğŸıÿÿÿÿ8Å®“À2J$d76d023a-79eb-46cb-b497-adb9e5b44fe2
-	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Ë‰ƒ8»À2J$ae67653a-34f6-4a93-9dbd-b073fcc09e76
-“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ôˆĞÂüÿÿÿÿ8»À2J$626d1cb6-e8d6-44b0-97e3-bfbbb8073e58
-“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ğŸıÿÿÿÿ8òË’À2J$b2fe720c-7b42-4bdc-b2f3-5d161d95d0d3
+h	php:S2003"&Replace "include" with "include_once".(Ë‰ƒ8»À2J$763f3dfc-78ce-4cee-89b2-761d5d1009f7
+m	php:S2003"&Replace "include" with "include_once".(ôˆĞÂüÿÿÿÿ8»À2J$b7da1251-0c95-4d44-9f17-e4f23ce8d6df
+m	php:S2003"&Replace "include" with "include_once".(ğŸıÿÿÿÿ8òË’À2J$79113874-0e9c-4106-9c09-1bb3b409996e
+r	php:S6600"0Remove the parentheses from this "include" call.(Ë‰ƒ8»À2J$0db659f4-3c4b-4edc-a044-39149c74076e
+w	php:S6600"0Remove the parentheses from this "include" call.(ôˆĞÂüÿÿÿÿ8»À2J$b3a3ee05-122e-489d-89a9-2b6f4197e7ca
+w	php:S6600"0Remove the parentheses from this "include" call.(ğŸıÿÿÿÿ8Å®“À2J$59675bd1-f242-49e3-85cc-3b9858b6a042
+	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Ë‰ƒ8»À2J$3ba82977-d1c9-49a1-a5a5-9f1beea4cef7
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ôˆĞÂüÿÿÿÿ8»À2J$83f8d1f2-7c5e-4b09-8a67-4b1dd6bd92ee
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ğŸıÿÿÿÿ8òË’À2J$7d04629b-514e-42ba-bb55-9837e86a576a
