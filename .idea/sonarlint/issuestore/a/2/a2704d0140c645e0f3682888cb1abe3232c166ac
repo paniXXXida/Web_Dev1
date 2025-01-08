@@ -1,0 +1,6 @@
+
+n	php:S1481<"-Remove this unused "$imgName" local variable.(—Œ°18« ÿÄ2J$4bbf39da-eb56-4940-a9a4-6173783e4e2e
+m	php:S2003="&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8« ÿÄ2J$e8c3f5d2-23f2-414b-a786-480673b3b43c
+m	php:S2003Q"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8« ÿÄ2J$82c99ea0-68c5-4b55-97bf-035137ae4e43
+“	php:S4833="LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8« ÿÄ2J$c6cdff5b-31f4-4efc-afb9-f9c1223a706f
+“	php:S4833Q"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8« ÿÄ2J$aec43d12-13a1-4896-bd32-061508da6e62

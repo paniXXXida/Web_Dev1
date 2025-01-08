@@ -4,7 +4,7 @@ namespace Models;
 
 class Appointment extends Model
 {
-    public const table = 'doctor_appointments';
+    const table = 'doctor_appointments';
 
     /**
      * @param array $data

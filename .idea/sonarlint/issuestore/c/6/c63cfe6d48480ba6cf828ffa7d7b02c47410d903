@@ -1,0 +1,4 @@
+
+q	php:S1481"*Remove this unused "$pets" local variable.(ì‹Äâúÿÿÿÿ8¹Æ‚‘Ä2J$e373c96a-15d3-492f-b4a6-184481f96737
+m	php:S2003"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8¹Æ‚‘Ä2J$b5c3f43c-9294-45d6-80d2-816b907181f8
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8ºÆ‚‘Ä2J$93848fa1-25b1-421a-9626-53694ce99a9f

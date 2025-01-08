@@ -1,0 +1,4 @@
+
+u	php:S1481"4Remove this unused "$doctorServices" local variable.(ŠİñC8õ´„‘Ä2J$31ad6875-6a05-4730-bc5d-12c4a8543017
+m	php:S2003"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8ö´„‘Ä2J$92381884-62d5-478f-a5ab-7d45c6a4fdbe
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8ö´„‘Ä2J$4c5ff1de-2f0c-44d0-a326-c36804ce2c5f
