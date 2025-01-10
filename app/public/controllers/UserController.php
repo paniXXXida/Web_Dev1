@@ -1,8 +1,10 @@
 <?php
-namespace Controllers;
+namespace controllers;
 
-use Models\User;
-
+require_once(__DIR__ . "/../models/User.php");
+require_once(__DIR__ . "/../models/Service.php");
+use models\User;
+use models\Service;
 class UserController
 {
     private $user;
@@ -58,7 +60,7 @@ class UserController
         }
 
         $imgName = (new User())->getImageByUserId($userId);
-        include "Views/{$view}.php";
+        include "views/pages/{$view}.php";
     }
 
     public function updateProfile()
@@ -78,6 +80,6 @@ class UserController
             $doctor['services'] = (new Service())->findByDoctorId($doctor['id']);
         }
 
-        include "Views/{$view}.php";
+        include "views/pages/{$view}.php";
     }
 }

@@ -1,6 +1,6 @@
 <?php
 $isUserLoggined = isset($_SESSION['user']);
-$user = $_SESSION['user'];
+$user = $_SESSION['user'] ?? null;;
 $urlPath = $_SERVER['REQUEST_URI'];
 
 $isUserClient = isset($user['user_type']) && $user['user_type'] == 0;
@@ -13,7 +13,6 @@ $isUserClient = isset($user['user_type']) && $user['user_type'] == 0;
         <?php if($isUserLoggined):?>
             Hello <?=$user['name'] ?>!
         <?php endif;?>
-        <span id="exchange"></span>
         <div class="mobile">
             <div></div>
             <div></div>
@@ -66,12 +65,12 @@ $isUserClient = isset($user['user_type']) && $user['user_type'] == 0;
 
                 <?php if($isUserLoggined && $isUserClient):?>
                     <span><a <?= $urlPath == '/doctor' ? 'class="active"': '' ?> href="/doctor">Select doctor</a></span>
-                    <span><a <?= $urlPath == '/add-pet' ? 'class="active"': '' ?> href="/add-pet">Add pet</a></span>
+                    <span><a <?= $urlPath == '/add_pet' ? 'class="active"': '' ?> href="/add_pet">Add pet</a></span>
                 <?php endif;?>
 
                 <?php if($isUserLoggined && !$isUserClient):?>
-                    <span><a <?= $urlPath == '/doctor-appointment' ? 'class="active"': '' ?> href="/doctor-appointment">Your appointments</a></span>
-                    <span><a <?= $urlPath == '/doctor-services' ? 'class="active"': '' ?> href="/doctor-services">Your services</a></span>
+                    <span><a <?= $urlPath == '/doctor_appointments' ? 'class="active"': '' ?> href="/doctor_appointments">Your appointments</a></span>
+                    <span><a <?= $urlPath == '/doctor_services' ? 'class="active"': '' ?> href="/doctor_services">Your services</a></span>
                 <?php endif;?>
 
                 <?php if($isUserLoggined):?>

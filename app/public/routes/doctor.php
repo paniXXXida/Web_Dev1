@@ -1,6 +1,8 @@
 <?php
+// routes/doctor.php
+
+use Controllers\UserController;
 
 Route::add('/doctor', function () {
-    // homepage is simply loading a static page
-    require(__DIR__ . "/../views/pages/doctor.php");
-});
+    (new UserController())->showDoctors('doctor');
+}, 'GET');

@@ -1,6 +1,10 @@
 
-n	php:S1481<"-Remove this unused "$imgName" local variable.(—Œ°18« ÿÄ2J$4bbf39da-eb56-4940-a9a4-6173783e4e2e
-m	php:S2003="&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8« ÿÄ2J$e8c3f5d2-23f2-414b-a786-480673b3b43c
-m	php:S2003Q"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8« ÿÄ2J$82c99ea0-68c5-4b55-97bf-035137ae4e43
-“	php:S4833="LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8« ÿÄ2J$c6cdff5b-31f4-4efc-afb9-f9c1223a706f
-“	php:S4833Q"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8« ÿÄ2J$aec43d12-13a1-4896-bd32-061508da6e62
+n	php:S1481>"-Remove this unused "$imgName" local variable.(—Œ°18È¦ê“Å2J$ed642847-c3e0-4305-a818-8ed02ab2836a
+m	php:S2003?"&Replace "include" with "include_once".(÷ÙËýúÿÿÿÿ8È¦ê“Å2J$4bd58a86-f137-4cd8-b1ac-f0d848f02303
+m	php:S2003S"&Replace "include" with "include_once".(÷ÙËýúÿÿÿÿ8È¦ê“Å2J$7014623d-1d49-4ced-a407-a5e4e3d8ca99
+|	php:S6600"5Remove the parentheses from this "require_once" call.(›¹Þïûÿÿÿÿ8È¦ê“Å2J$908706a2-4419-4d67-bc67-f41c6b914ff2
+|	php:S6600"5Remove the parentheses from this "require_once" call.(ƒžÈÄýÿÿÿÿ8¯’ð“Å2J$beb77835-a337-4a47-9f61-68252ec77ef4
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(›¹Þïûÿÿÿÿ8È¦ê“Å2J$11dba9bb-3f52-4de5-a0ef-0d373a80039b
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ƒžÈÄýÿÿÿÿ8¯’ð“Å2J$aedcecd3-4e79-4e60-9b5b-6dde3fa02060
+“	php:S4833?"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËýúÿÿÿÿ8È¦ê“Å2J$d3f3ba97-4d69-4904-b6ed-7f8c7be2d186
+“	php:S4833S"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËýúÿÿÿÿ8È¦ê“Å2J$b50c5608-0d67-4417-b531-90671130963d

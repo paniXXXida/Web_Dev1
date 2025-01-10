@@ -1,7 +1,7 @@
 <?php
 
-namespace Models;
-
+namespace models;
+require_once(__DIR__ . "/Model.php");
 class Pet extends Model
 {
     public const table = 'pets';

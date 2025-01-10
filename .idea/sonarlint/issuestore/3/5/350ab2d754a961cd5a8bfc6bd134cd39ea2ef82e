@@ -1,3 +1,7 @@
 
-‡	php:S1131:"@Remove the useless trailing whitespaces at the end of this line.(¦‚ˆÌøÿÿÿÿ8¹×àË¿2J$ab1251aa-68b2-4f22-bd39-425323cfbfe1
-œphp:S115"[Rename this constant "table" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ºð‘Ó8¹×àË¿2J$294e2f80-f802-4ca3-92e2-3d6e2489270e
+‡	php:S1131<"@Remove the useless trailing whitespaces at the end of this line.(¦‚ˆÌøÿÿÿÿ8¹×àË¿2J$f7740860-d62f-4054-a2a4-7cd626c96f82
+~php:S105"EReplace all tab characters in this file by sequences of white-spaces.8¤«ðãÄ2J$0963610c-14d9-4243-934a-6b042fab13da
+œphp:S115	"[Rename this constant "table" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ºð‘Ó8œùŽ’Å2J$21250443-90e1-46bf-976d-9dc26fa34113
+`php:S113"'Add a new line at the end of this file.8¤«ðãÄ2J$2679e129-03e8-4157-a376-3a5142aa3c3c
+V	php:S6600"5Remove the parentheses from this "require_once" call.(ŒôðÖþÿÿÿÿ8ø‡’Å2
+r	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ŒôðÖþÿÿÿÿ8ø‡’Å2

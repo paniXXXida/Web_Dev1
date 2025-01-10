@@ -1,8 +1,12 @@
 
-t	php:S14817"-Remove this unused "$clients" local variable.( Å»Ñûÿÿÿÿ8À†‘Ä2J$f10c515e-baee-4ad8-98a5-5dda18acfedf
-u	php:S1481-".Remove this unused "$doctorId" local variable.(Û«ş‹ıÿÿÿÿ8À†‘Ä2J$c17ddf05-95bb-4771-ac85-ec56731d12b5
-r	php:S1481/"1Remove this unused "$userAnimals" local variable.(¹Ì¦8À†‘Ä2J$b64c26da-6977-4513-88bb-4eab9facf1e9
-m	php:S20031"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8À†‘Ä2J$3c35bbfc-1ad4-4197-81f1-c88c83c2d9b9
-m	php:S20039"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8À†‘Ä2J$a4d0ef3b-d705-4df8-98f5-96ecdac9dd03
-“	php:S48331"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8À†‘Ä2J$231f8328-a68a-4671-96b0-b6d15ad5a79f
-“	php:S48339"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8À†‘Ä2J$59962c18-ad08-4311-9a4e-671f5cec7edb
+t	php:S14818"-Remove this unused "$clients" local variable.( Å»Ñûÿÿÿÿ8À†‘Ä2J$a9b2921a-eae5-4230-aa5f-69d4ffc976aa
+u	php:S1481.".Remove this unused "$doctorId" local variable.(Û«ş‹ıÿÿÿÿ8À†‘Ä2J$2c9d5bb5-a8e3-4f63-86fd-32720bffe0df
+r	php:S14810"1Remove this unused "$userAnimals" local variable.(¹Ì¦8À†‘Ä2J$fbc7aa27-6405-4e31-84a1-fa879c283dfe
+m	php:S20032"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8À†‘Ä2J$d0b0284e-dc23-4490-8866-c2f4c3f2b98c
+m	php:S2003:"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8À†‘Ä2J$598bedcd-4728-46a6-ab4e-197a47861f98
+|	php:S6600"5Remove the parentheses from this "require_once" call.(€Ó¤úÿÿÿÿ8‰í°”Å2J$5679caaf-e5d2-4be1-a716-118ef835c958
+|	php:S6600"5Remove the parentheses from this "require_once" call.(”³Š°üÿÿÿÿ8–¹±”Å2J$d3a0f5ee-796e-4349-9e08-fdc86f80c5a2
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(€Ó¤úÿÿÿÿ8‰í°”Å2J$1e6fd3b1-a483-4bd4-9673-7dd6cb9869c6
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(”³Š°üÿÿÿÿ8–¹±”Å2J$92835e46-089f-4cf2-b3aa-b961e2c7c161
+“	php:S48332"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8À†‘Ä2J$e3a391ca-d6ab-4c15-b7fa-0f1dd253d058
+“	php:S4833:"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8À†‘Ä2J$97539ed9-e7ae-4371-b26e-1d3cd1bc2023

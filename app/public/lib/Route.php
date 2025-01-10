@@ -1,7 +1,5 @@
 <?php
 
-// From: https://github.com/steampixel/simplePHPRouter
-
 class Route
 {
 

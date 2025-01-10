@@ -1,7 +1,9 @@
 <?php
 
-namespace Models;
 
+
+namespace models;
+require_once(__DIR__ . "/Model.php");
 class Appointment extends Model
 {
     const table = 'doctor_appointments';

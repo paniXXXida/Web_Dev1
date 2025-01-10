@@ -1,7 +1,8 @@
 <?php
-namespace Controllers;
+namespace controllers;
 
-use Models\Service;
+require_once(__DIR__ . "/../models/Service.php");
+use models\Service;
 
 class ServiceController
 {
@@ -10,7 +11,7 @@ class ServiceController
         $doctorId = $_SESSION['user']['id'];
         $doctorServices = (new Service())->findByDoctorId($doctorId);
 
-        include "Views/{$view}.php";
+        include "views/pages/{$view}.php";
     }
 
     public function addService()
@@ -19,9 +20,9 @@ class ServiceController
         $statusCreate = $service->create($_POST);
 
         if ($statusCreate) {
-            header('Location: /doctor-services');
+            header('Location: /doctor_services');
         } else {
-            header('Refresh:2; url=/doctor-services');
+            header('Refresh:2; url=/doctor_services');
             echo 'Failed to add service, try again. You will be redirected in 2s';
         }
     }
@@ -32,9 +33,9 @@ class ServiceController
         $statusUpdate = $service->update($_POST);
 
         if ($statusUpdate) {
-            header('Location: /doctor-services');
+            header('Location: /doctor_services');
         } else {
-            header('Refresh:2; url=/doctor-services');
+            header('Refresh:2; url=/doctor_services');
             echo 'Failed to update service, try again. You will be redirected in 2s';
         }
     }

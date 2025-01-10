@@ -1,6 +1,9 @@
 <?php
+// routes/doctor_services.php
+
+require_once(__DIR__ . "/../controllers/ServiceController.php");
+use controllers\ServiceController;
 
 Route::add('/doctor_services', function () {
-    // homepage is simply loading a static page
-    require(__DIR__ . "/../views/pages/doctor_services.php");
-});
+    (new ServiceController())->showDoctorServices('doctor_services');
+}, 'GET');

@@ -1,4 +1,6 @@
 
-q	php:S1481"*Remove this unused "$pets" local variable.(ì‹Äâúÿÿÿÿ8¹Æ‚‘Ä2J$e373c96a-15d3-492f-b4a6-184481f96737
-m	php:S2003"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8¹Æ‚‘Ä2J$b5c3f43c-9294-45d6-80d2-816b907181f8
-“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8ºÆ‚‘Ä2J$93848fa1-25b1-421a-9626-53694ce99a9f
+q	php:S1481"*Remove this unused "$pets" local variable.(ì‹Äâúÿÿÿÿ8¹Æ‚‘Ä2J$4784a5dc-3865-4a5c-8ea9-ed84b4abf365
+m	php:S2003"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ºµë‘Å2J$388c5411-89ff-4029-8989-b11780c4ee3e
+|	php:S6600"5Remove the parentheses from this "require_once" call.(”³Š°üÿÿÿÿ8“¤’Å2J$fe0514ed-6734-4f92-a1db-136f25ca0d2d
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(”³Š°üÿÿÿÿ8”¤’Å2J$c83f52fd-b0a2-4639-8802-a6e919b8e022
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8ºÆ‚‘Ä2J$2d3ed912-b28e-46ff-aa85-c6b573fa72aa

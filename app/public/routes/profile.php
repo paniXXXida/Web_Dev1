@@ -1,6 +1,8 @@
 <?php
+// routes/profile.php
+
+use Controllers\UserController;
 
 Route::add('/profile', function () {
-    // homepage is simply loading a static page
-    require(__DIR__ . "/../views/pages/profile.php");
-});
+    (new UserController())->showProfile('profile');
+}, 'GET');

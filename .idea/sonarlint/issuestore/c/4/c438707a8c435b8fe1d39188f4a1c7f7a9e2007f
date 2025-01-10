@@ -1,4 +1,6 @@
 
-u	php:S1481"4Remove this unused "$doctorServices" local variable.(ŠİñC8õ´„‘Ä2J$31ad6875-6a05-4730-bc5d-12c4a8543017
-m	php:S2003"&Replace "include" with "include_once".(ÂùÌøÿÿÿÿ8ö´„‘Ä2J$92381884-62d5-478f-a5ab-7d45c6a4fdbe
-“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÂùÌøÿÿÿÿ8ö´„‘Ä2J$4c5ff1de-2f0c-44d0-a326-c36804ce2c5f
+u	php:S1481"4Remove this unused "$doctorServices" local variable.(ŠİñC8õ´„‘Ä2J$07eda33b-52fb-4839-b9da-89caa8a1663b
+m	php:S2003"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ÎÕ·‘Å2J$20992da6-62bc-4e4e-9232-651cd4cd1541
+|	php:S6600"5Remove the parentheses from this "require_once" call.(ƒÈÄıÿÿÿÿ8Ìó¡”Å2J$5c274c10-f1f2-4ff4-85c3-18f25302e68f
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ƒÈÄıÿÿÿÿ8Ìó¡”Å2J$62b5abbd-c3ec-4686-9538-5e48f8924546
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8ı»ï‘Å2J$2a1333b2-c634-4947-aab4-0a98997d3b66

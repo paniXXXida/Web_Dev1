@@ -1,7 +1,8 @@
 <?php
 
-namespace Models;
 
+namespace models;
+require_once(__DIR__ . "/Model.php");
 class User extends Model
 {
     private const table = 'users';

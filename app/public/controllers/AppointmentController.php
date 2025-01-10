@@ -1,8 +1,9 @@
 <?php
-namespace Controllers;
-
-use Models\Appointment;
-use Models\Pet;
+namespace controllers;
+require_once(__DIR__ . "/../models/Appointment.php");
+require_once(__DIR__ . "/../models/Pet.php");
+use models\Appointment;
+use models\Pet;
 
 class AppointmentController
 {
@@ -25,7 +26,7 @@ class AppointmentController
         $statusUpdate = $appointment->update($_POST);
 
         if ($statusUpdate) {
-            header('Location: /doctor-appointment');
+            header('Location: /doctor_appointments');
         } else {
             header('Location: ' . $_SERVER['HTTP_REFERER']);
             echo 'Failed to update appointment, try again';
@@ -46,7 +47,7 @@ class AppointmentController
         $userId = $_SESSION['user']['id'];
         $userAnimals = (new Pet())->findByUserId($userId);
 
-        include "Views/{$view}.php";
+        include "views/pages/{$view}.php";
     }
 
     public function showDoctorAppointments(string $view)
@@ -54,6 +55,6 @@ class AppointmentController
         $doctorId = $_SESSION['user']['id'];
         $clients = (new Appointment())->findByDoctorId($doctorId);
 
-        include "Views/{$view}.php";
+        include "views/pages/{$view}.php";
     }
 }
