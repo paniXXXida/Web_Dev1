@@ -10,25 +10,17 @@
     <link rel="stylesheet" href="/assets/css/media.css">
 </head>
 
+
+<script src="/assets/javascript/doctor_services_api.js"></script>
 <body>
 <div class="wrapper">
     <?php include('views/partials/header.php')?>
     <main class="container">
         <h2>Your services</h2>
-        <?php foreach ($doctorServices as $service):?>
-            <div class="account">
-                <form class="form-add" action="update_service" method="post">
-                    <input type="text" placeholder="Name services" name="service_name" value="<?= $service['name']?>" required>
-
-                    <input type="hidden" name="service_id" value="<?= $service['id']?>">
-                    <button type="submit">Update service</button>
-                </form>
-            </div>
-        <?php endforeach;?>
-
+            <div id="services" class="account"></div>
         <div class="account">
             <h2>Add services</h2>
-            <form class="form-add" action="add_service" method="post">
+            <form class="form-add" action="/doctor_services" method="post">
                 <input type="text" placeholder="Name services" name="service_name" required>
 
                 <input type="hidden" name="doctor_id" value="<?= $doctorId?>">

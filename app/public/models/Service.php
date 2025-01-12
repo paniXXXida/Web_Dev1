@@ -55,4 +55,13 @@ class Service extends Model
 
         return $stmt->execute();
     }
+
+    public function findServiceById(int $id): array
+    {
+        $sql = "SELECT * FROM ".self::table." WHERE id = $id";
+        $stmt = $this->pdo->prepare($sql);
+        $stmt->execute();
+
+        return $stmt->fetchAll(\PDO::FETCH_ASSOC);
+    }
 }

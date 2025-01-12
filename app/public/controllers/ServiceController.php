@@ -29,14 +29,21 @@ class ServiceController
 
     public function updateService()
     {
-        $service = new Service();
-        $statusUpdate = $service->update($_POST);
 
-        if ($statusUpdate) {
-            header('Location: /doctor_services');
-        } else {
-            header('Refresh:2; url=/doctor_services');
-            echo 'Failed to update service, try again. You will be redirected in 2s';
-        }
+        $service = new Service();
+        $service->update(json_decode(file_get_contents("php://input"), true));
+        header('Content-Type: application/json');
+        http_response_code(200);
+        $updatedService = $service->findServiceById(json_decode(file_get_contents("php://input"), true)['service_id']);
+        echo json_encode($updatedService);
+    }
+
+    public function fetchDoctorServices()
+    {
+        $doctorId = $_SESSION['user']['id'];
+        $doctorServices = (new Service())->findByDoctorId($doctorId);
+        header('Content-Type: application/json');
+        http_response_code(200);
+        echo json_encode($doctorServices);
     }
 }

@@ -29,7 +29,7 @@
                         </ul>
                     </div>
 
-                    <button class="btn"><a target="_blank" href="add-appointment?id=<?= $doctor['id']?>">make an appointment</a></button>
+                    <button class="btn"><a target="_blank" href="/add_appointment?id=<?= $doctor['id']?>">make an appointment</a></button>
                 </div>
             <?php endforeach;?>
         </div>

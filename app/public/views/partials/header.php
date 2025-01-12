@@ -1,6 +1,6 @@
 <?php
 $isUserLoggined = isset($_SESSION['user']);
-$user = $_SESSION['user'] ?? null;;
+$user = $_SESSION['user'] ?? null;
 $urlPath = $_SERVER['REQUEST_URI'];
 
 $isUserClient = isset($user['user_type']) && $user['user_type'] == 0;

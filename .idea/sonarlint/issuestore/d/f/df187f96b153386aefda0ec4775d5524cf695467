@@ -1,31 +1,31 @@
 
-v	php:S6600"5Remove the parentheses from this "require_once" call.(öø£z8òâ„‘Å2J$c2483c87-3be8-4e14-bc63-7a827bf5afb6
-w	php:S6600"5Remove the parentheses from this "require_once" call.(¼ªÈÖ8òâ„‘Å2J$bdb2289c-57b2-4f41-a930-4c9e329c5c58
-v	php:S6600"5Remove the parentheses from this "require_once" call.(Ùí¬a8òâ„‘Å2J$78480396-515b-4af2-a854-8344c2f29b6c
-|	php:S6600"5Remove the parentheses from this "require_once" call.(Ó‹Ê€şÿÿÿÿ8òâ„‘Å2J$80bc7848-10ea-4587-8b42-e68eaf5a44e7
-|	php:S6600"5Remove the parentheses from this "require_once" call.(ªóÅäşÿÿÿÿ8òâ„‘Å2J$c70a2dbf-b168-4360-8c71-0282d164c625
-|	php:S6600"5Remove the parentheses from this "require_once" call.(Ê¬Áõıÿÿÿÿ8óâ„‘Å2J$8cc3e844-7fc4-425c-9bdc-99e54fd09063
-w	php:S6600"5Remove the parentheses from this "require_once" call.(Ğ­·”8ÿâ„‘Å2J$3ae8fc47-47ca-4a0f-8a56-79eec131966e
-w	php:S6600"5Remove the parentheses from this "require_once" call.(ì÷Â’8ÿâ„‘Å2J$06027a55-d02f-4eb9-be2a-bb57f9f3486c
-|	php:S6600"5Remove the parentheses from this "require_once" call.(¤ëµøÿÿÿÿ8ÿâ„‘Å2J$1ea63423-e6f8-494b-ab0c-7d5ec983be89
-w	php:S6600 "5Remove the parentheses from this "require_once" call.(ğªûã8ÿâ„‘Å2J$3f5a0465-97e2-4463-b412-e0489fb93430
-|	php:S6600!"5Remove the parentheses from this "require_once" call.(Çª‹Ûùÿÿÿÿ8€ã„‘Å2J$b20e2245-2331-461c-8fdf-e9cb7f289efe
-w	php:S6600""5Remove the parentheses from this "require_once" call.(¢ï„’8€ã„‘Å2J$0a9c04ed-0367-4fbb-ada1-a61a2ccc26cc
-w	php:S6600#"5Remove the parentheses from this "require_once" call.(Ë ü«8€ã„‘Å2J$617f508b-2c07-4f67-8fff-d4ad2e318f60
-w	php:S6600$"5Remove the parentheses from this "require_once" call.(ù÷²Ù8€ã„‘Å2J$93c1529d-b948-406d-936d-95741fd91c23
-|	php:S6600%"5Remove the parentheses from this "require_once" call.(ÙÖøÆùÿÿÿÿ8€ã„‘Å2J$7ea0c3ee-563a-45c7-890c-24aa95b44620
-’	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(öø£z8€ã„‘Å2J$83afc6a4-cbaa-496f-924d-cb58784acef1
-“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¼ªÈÖ8€ã„‘Å2J$f79aba53-a0b7-44e6-b65e-353141ce9108
-’	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ùí¬a8€ã„‘Å2J$f5a39817-74fd-4898-afc1-4c00c104dfb3
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ó‹Ê€şÿÿÿÿ8ã„‘Å2J$ba6c10fb-bf01-44f9-a7ab-c17098c32ecb
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ªóÅäşÿÿÿÿ8ã„‘Å2J$95c7e372-2bd1-411d-8c23-436d9fe4ffd8
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ê¬Áõıÿÿÿÿ8ã„‘Å2J$8b752e14-ee12-43ab-91d7-dd1306ab0c63
-“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ğ­·”8ã„‘Å2J$0cf19ded-938b-4265-af6b-39f33bc1dc69
-“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ì÷Â’8ã„‘Å2J$b849cc90-5b08-4ba9-8159-3599afc32bff
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¤ëµøÿÿÿÿ8ã„‘Å2J$739e0242-0bad-4e7b-ab7a-8e1d4376a050
-“	php:S4833 "QReplace "require_once" with namespace import mechanism through the "use" keyword.(ğªûã8ã„‘Å2J$adfc9ac5-9076-439b-b323-389c6725f3e5
-˜	php:S4833!"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Çª‹Ûùÿÿÿÿ8ã„‘Å2J$3dc49875-0e65-46e1-919b-07601d721f90
-“	php:S4833""QReplace "require_once" with namespace import mechanism through the "use" keyword.(¢ï„’8‚ã„‘Å2J$3dca4779-8455-4754-b3a8-f057a0fc608f
-“	php:S4833#"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ë ü«8‚ã„‘Å2J$f9e5a74e-b7f5-423c-9e3f-39de253fc67c
-“	php:S4833$"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ù÷²Ù8‚ã„‘Å2J$3a458163-aad1-41b8-8d58-a777e1414cd6
-˜	php:S4833%"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÙÖøÆùÿÿÿÿ8‚ã„‘Å2J$f0f5f6d5-869e-4aee-9e01-7ced01926d53
+v	php:S6600"5Remove the parentheses from this "require_once" call.(öø£z8òâ„‘Å2J$aebbc538-cd69-4657-a0a4-3220937c661e
+w	php:S6600"5Remove the parentheses from this "require_once" call.(¼ªÈÖ8òâ„‘Å2J$c1d5e2f9-ba2e-4c11-8627-b32f1a54711f
+P	php:S6600"5Remove the parentheses from this "require_once" call.(Ùí¬a8«‘¨Å2
+|	php:S6600"5Remove the parentheses from this "require_once" call.(Ó‹Ê€şÿÿÿÿ8òâ„‘Å2J$ad1f9fe4-1035-47aa-ae0c-2c39b55da086
+|	php:S6600"5Remove the parentheses from this "require_once" call.(ªóÅäşÿÿÿÿ8òâ„‘Å2J$7b60ba74-794c-452f-8b14-e160ea5309b7
+|	php:S6600"5Remove the parentheses from this "require_once" call.(Ê¬Áõıÿÿÿÿ8óâ„‘Å2J$8ade36b7-4e0e-4c5d-b0ab-cfbb8e5ec8ee
+w	php:S6600"5Remove the parentheses from this "require_once" call.(Ğ­·”8ÿâ„‘Å2J$398c3249-26f5-4114-9ca8-c5f596432983
+w	php:S6600"5Remove the parentheses from this "require_once" call.(ì÷Â’8ÿâ„‘Å2J$a9600be7-92bf-42f8-b3bd-2dd6d8fe0bcb
+|	php:S6600"5Remove the parentheses from this "require_once" call.(¤ëµøÿÿÿÿ8ÿâ„‘Å2J$702d83d8-0eb3-4f59-ac09-e42be18d5fc3
+w	php:S6600 "5Remove the parentheses from this "require_once" call.(ğªûã8ÿâ„‘Å2J$ad887b75-087f-4777-b448-1c1963d8799a
+|	php:S6600!"5Remove the parentheses from this "require_once" call.(Çª‹Ûùÿÿÿÿ8€ã„‘Å2J$8dc87404-4bae-487e-a906-883c1aab3c55
+w	php:S6600""5Remove the parentheses from this "require_once" call.(¢ï„’8€ã„‘Å2J$57047c60-cf1a-4492-9d33-d0a0027ff766
+w	php:S6600#"5Remove the parentheses from this "require_once" call.(Ë ü«8€ã„‘Å2J$b4f380d1-0de4-4e4a-9a5b-84d0f79145a0
+w	php:S6600$"5Remove the parentheses from this "require_once" call.(ù÷²Ù8€ã„‘Å2J$b3cbbb25-bee6-4bb9-aad6-93aa4cf88729
+|	php:S6600%"5Remove the parentheses from this "require_once" call.(ÙÖøÆùÿÿÿÿ8€ã„‘Å2J$9c707cd1-0872-4f4c-99c0-2437d3b65dfc
+’	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(öø£z8€ã„‘Å2J$5854a00f-a8e6-4ac2-b21c-2c822b37cad3
+“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¼ªÈÖ8€ã„‘Å2J$37812e79-ef28-458b-b542-844f0238931d
+’	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ùí¬a8€ã„‘Å2J$edc945a9-de62-494f-b809-07d634e76858
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ó‹Ê€şÿÿÿÿ8ã„‘Å2J$e7cea132-9693-4501-8c03-9fb99b2962aa
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ªóÅäşÿÿÿÿ8ã„‘Å2J$c53c911a-e783-4f43-a276-04357322ac55
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ê¬Áõıÿÿÿÿ8ã„‘Å2J$5ff2705c-1d8f-4c6c-950d-83d5ae6982ec
+“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ğ­·”8ã„‘Å2J$5d67c48e-4c97-4dc7-a834-334a1971059b
+“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ì÷Â’8ã„‘Å2J$87ba7426-50fe-4949-abc2-c2bfd0ade93e
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¤ëµøÿÿÿÿ8ã„‘Å2J$0be1db45-4963-4e1f-a026-3541e853fb6c
+“	php:S4833 "QReplace "require_once" with namespace import mechanism through the "use" keyword.(ğªûã8ã„‘Å2J$14605eda-f9e0-46ac-bbec-895266018cdb
+˜	php:S4833!"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Çª‹Ûùÿÿÿÿ8ã„‘Å2J$60580ebc-5a9c-4c3f-aca3-f39181e04202
+“	php:S4833""QReplace "require_once" with namespace import mechanism through the "use" keyword.(¢ï„’8‚ã„‘Å2J$c64206b8-ac87-4889-b0ea-a091b02fca3b
+“	php:S4833#"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ë ü«8‚ã„‘Å2J$57e3bf12-6a82-44ad-9419-d1b085a62b3b
+“	php:S4833$"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ù÷²Ù8‚ã„‘Å2J$89d8823a-1e53-4e43-bc6d-ea296f219047
+˜	php:S4833%"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÙÖøÆùÿÿÿÿ8‚ã„‘Å2J$d9c82fa5-5042-4ce3-b2f4-f5731fd93834

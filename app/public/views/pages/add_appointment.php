@@ -16,7 +16,7 @@
     <main class="container">
         <div class="account">
             <h2>Make appointment</h2>
-            <form action="add_appointment" method="post">
+            <form action="/add_appointment" method="post">
                 <p>Select animal:</p>
                 <select name="pet_id">
                     <?php foreach ($userAnimals as $animal):?>

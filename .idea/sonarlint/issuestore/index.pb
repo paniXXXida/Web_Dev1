@@ -13,7 +13,7 @@ D
 T
 $app/public/assets/javascript/main.js,f\d\fde72041bc99ba6eecf71fb57a1b51fbb5bb506e
 O
-app/public/assets/css/style.css,6/2/629859b7ca2aed20c16ffa6915cf0739e063bed7
+app/public/assets/css/style.css,6\2\629859b7ca2aed20c16ffa6915cf0739e063bed7
 K
 app/public/routes/index.php,c\b\cbebef77e39cf0de366c62ff0d8c71e418df96e7
 P
@@ -29,7 +29,7 @@ $app/public/views/partials/footer.php,6\f\6fe51c5ac533231d78e741b8093cc43749501
 T
 $app/public/views/partials/header.php,a\c\ac1991a352399a75d7e53dc6d9b40b4fe81e3b9e
 O
-app/public/assets/css/media.css,c/c/cc854c47f9ab0e8851b1e7160ad618c26c631301
+app/public/assets/css/media.css,c\c\cc854c47f9ab0e8851b1e7160ad618c26c631301
 _
 /app/public/views/partials/main_page_content.php,6\a\6ad380f7d2fd76cf3d10066f02b0135c16c84ef8
 Q
@@ -98,3 +98,5 @@ X
 ,app/public/controllers/ServiceController.php,c\4\c438707a8c435b8fe1d39188f4a1c7f7a9e2007f
 Y
 )app/public/controllers/UserController.php,a\2\a2704d0140c645e0f3682888cb1abe3232c166ac
+c
+3app/public/assets/javascript/doctor_services_api.js,7\d\7d478f25abdf4e2d92500c6a1d7dc769b450e907
