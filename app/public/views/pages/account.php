@@ -34,7 +34,6 @@
     </main>
     <?php include('views/partials/footer.php'); ?>
 </div>
-<!-- Подключаем JavaScript-файл для удаления -->
 <script src="/assets/javascript/delete_appointment_API.js"></script>
 </body>
 </html>

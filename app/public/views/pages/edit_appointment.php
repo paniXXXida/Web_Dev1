@@ -30,7 +30,5 @@
     </main>
     <?php include('views/partials/footer.php'); ?>
 </div>
-<!-- Подключаем JavaScript-файл для меню -->
-<script src="/assets/javascript/menu.js"></script>
 </body>
 </html>

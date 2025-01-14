@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Находим все кнопки с классом 'delete-appointment'
+
     const deleteButtons = document.querySelectorAll('.delete-appointment');
     deleteButtons.forEach((btn) => {
         btn.addEventListener('click', function (e) {
@@ -12,17 +12,17 @@ document.addEventListener('DOMContentLoaded', function () {
                 return;
             }
 
-            // Подтверждаем удаление
+
             if (!confirm(`Are you sure you want to delete appointment #${appointmentId}?`)) {
                 return;
             }
 
-            // Создаём объект с данными для отправки
+
             const payload = {
                 id: appointmentId
             };
 
-            // Отправляем POST-запрос на API для удаления
+
             fetch('/api/appointments/delete', {
                 method: 'POST',
                 headers: {
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then((data) => {
                     if (data.success) {
                         alert(`Appointment #${appointmentId} deleted!`);
-                        // Удаляем блок назначения из DOM
+
                         const elem = document.getElementById(`appointment-${appointmentId}`);
                         if (elem) {
                             elem.remove();

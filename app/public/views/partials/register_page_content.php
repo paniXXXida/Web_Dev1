@@ -42,7 +42,5 @@
         </div>
     </div>
 </div>
-<!-- Swiper JS -->
-<script src="/assets/javascript/main.js"></script>
 </body>
 </html>

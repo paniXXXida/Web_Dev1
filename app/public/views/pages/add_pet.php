@@ -38,14 +38,12 @@
                     <option value="Cat">Cat</option>
                     <option value="Dog">Dog</option>
                 </select>
-                <input type="text" placeholder="Age of the pet" name="pet_year" required>
+                <input type="number" placeholder="Age of the pet" min="1" max="99" name="pet_year" required>
                 <button type="submit">Add</button>
             </form>
         </div>
     </main>
     <?php include('views/partials/footer.php')?>
 </div>
-<!-- Swiper JS -->
-<script src="../script/menu.js"></script>
 </body>
 </html>

@@ -1,22 +1,22 @@
 
-Œphp:S112="FDefine and throw a dedicated exception instead of using a generic one.(˜‡‡€ıÿÿÿÿ8§Ÿ²‘Æ2J$e2f39707-89b6-4adb-9005-a06f87a03028
-Œphp:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ü’ËÄşÿÿÿÿ8§Ÿ²‘Æ2J$60c170cb-e4a2-432d-ae1c-d1d1e5502e43
-Œphp:S112["FDefine and throw a dedicated exception instead of using a generic one.(ôÂû ûÿÿÿÿ8§Ÿ²‘Æ2J$98e09109-ec1d-4076-b004-8e40118ac79b
-u	php:S1481š"2Remove this unused "$appointments" local variable.(±‘Ç£8ÂºÿÿÅ2J$b0b9208a-a5c1-45b9-b5c5-e3984e159287
-l	php:S14813"*Remove this unused "$date" local variable.(†´Éï8Ò£±‘Æ2J$f87dcf3d-f35a-40a4-a714-48395f127037
-u	php:S1481Š"-Remove this unused "$clients" local variable.( Å»Ñûÿÿÿÿ8À†‘Ä2J$22191d5b-53a8-404c-8cbd-09e0cf569ad5
-v	php:S1481€".Remove this unused "$doctorId" local variable.(Û«ş‹ıÿÿÿÿ8À†‘Ä2J$315cc65f-4363-4ba8-b654-360b680fad4b
-s	php:S1481‚"1Remove this unused "$userAnimals" local variable.(¹Ì¦8À†‘Ä2J$42c16725-d4b9-4100-89e0-4e99da6a755f
-y	php:S18542"7Remove this useless assignment to local variable '$id'.(ä¡öï8Ò£±‘Æ2J$ba16c826-e282-442d-864a-192054614f62
-h	php:S20035"&Replace "include" with "include_once".(ˆƒÖ½8ÂºÿÿÅ2J$568bd2f8-88f8-4eca-a2db-ff0afa55ae1d
-n	php:S2003„"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ŒèÈÆ2J$4536a663-7a30-4ee0-983c-4a3fad36cafb
-n	php:S2003Œ"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ßáıÆ2J$919e3e33-e620-4d73-ae30-7f61a73a6bd3
-n	php:S2003Ÿ"&Replace "include" with "include_once".(ÎØ˜şÿÿÿÿ8Ó£±‘Æ2J$9afe4c34-a7ee-4d2b-bbdd-b15845388073
-|	php:S6600"5Remove the parentheses from this "require_once" call.(€Ó¤úÿÿÿÿ8‰í°”Å2J$0e2a41a5-b558-42da-9e88-3230b742cf77
-|	php:S6600"5Remove the parentheses from this "require_once" call.(”³Š°üÿÿÿÿ8–¹±”Å2J$5cf57461-e25f-4cf1-9e27-ac0100dbc493
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(€Ó¤úÿÿÿÿ8‰í°”Å2J$7649e63a-3b21-449c-b4f3-32889638d465
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(”³Š°üÿÿÿÿ8–¹±”Å2J$5845b1d4-8e12-4774-82b2-3c577a1a978a
-	php:S48335"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆƒÖ½8ÃºÿÿÅ2J$522386af-39d4-4277-ac26-b962504a6da3
-”	php:S4833„"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8ŒèÈÆ2J$cb44a965-2041-4724-8e80-9cdc04603da2
-”	php:S4833Œ"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8êáıÆ2J$b4e9243b-5017-434b-9e44-590e323a9f1f
-”	php:S4833Ÿ"LReplace "include" with namespace import mechanism through the "use" keyword.(ÎØ˜şÿÿÿÿ8Ó£±‘Æ2J$8dc71073-afa6-4905-9fb6-f3113c026164
+Œphp:S112="FDefine and throw a dedicated exception instead of using a generic one.(˜‡‡€ıÿÿÿÿ8§Ÿ²‘Æ2J$51988ad1-9783-4a52-bbbc-20b5e5e77af0
+Œphp:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ü’ËÄşÿÿÿÿ8§Ÿ²‘Æ2J$51650dd8-3ddc-453b-be12-54907623f80d
+Œphp:S112["FDefine and throw a dedicated exception instead of using a generic one.(ôÂû ûÿÿÿÿ8§Ÿ²‘Æ2J$d4622a50-b32b-47df-a198-d1e59a4782aa
+u	php:S1481Š"-Remove this unused "$clients" local variable.( Å»Ñûÿÿÿÿ8À†‘Ä2J$a18ffd43-3b76-4a5d-b496-cfa3feba7017
+l	php:S14813"*Remove this unused "$date" local variable.(†´Éï8Ò£±‘Æ2J$60ddd5f7-4f8c-4fa5-9555-052ba036d820
+u	php:S1481™"2Remove this unused "$appointments" local variable.(±‘Ç£8ÂºÿÿÅ2J$f7ec9a88-63f4-48b5-a406-5a9314d95c6d
+v	php:S1481€".Remove this unused "$doctorId" local variable.(Û«ş‹ıÿÿÿÿ8À†‘Ä2J$a54a25c7-d2b1-4470-bc22-b50696715d6b
+s	php:S1481‚"1Remove this unused "$userAnimals" local variable.(¹Ì¦8À†‘Ä2J$ae63b670-772c-4270-8243-f4750d993737
+y	php:S18542"7Remove this useless assignment to local variable '$id'.(ä¡öï8Ò£±‘Æ2J$77ab9f83-c457-4d8c-bbd0-32065088b286
+h	php:S20035"&Replace "include" with "include_once".(ˆƒÖ½8ÂºÿÿÅ2J$6330c0d5-9f0f-4a5f-a19e-58aee541d5ea
+n	php:S2003„"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ŒèÈÆ2J$3288433c-a405-4a0d-acec-86be09e766a6
+n	php:S2003Œ"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ßáıÆ2J$baf2deaf-1502-4962-b29d-fc3e04e2f07e
+n	php:S2003›"&Replace "include" with "include_once".(ÎØ˜şÿÿÿÿ8Ó£±‘Æ2J$451bdd65-72d5-48f6-86ca-0e7ada85597c
+|	php:S6600"5Remove the parentheses from this "require_once" call.(€Ó¤úÿÿÿÿ8‰í°”Å2J$db55329a-b6e9-4b94-82d7-92290df0f3c1
+|	php:S6600"5Remove the parentheses from this "require_once" call.(”³Š°üÿÿÿÿ8–¹±”Å2J$40b8761a-5036-43f3-992a-e486d356cf44
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(€Ó¤úÿÿÿÿ8‰í°”Å2J$8bb97e66-d966-48d6-853d-582e7908d628
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(”³Š°üÿÿÿÿ8–¹±”Å2J$34c75090-f5a1-4a45-a192-87c5fe436352
+	php:S48335"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆƒÖ½8ÃºÿÿÅ2J$10136b4c-1870-4401-91ed-892fb291cc54
+”	php:S4833„"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8ŒèÈÆ2J$d3202449-d155-412c-9aac-d5e51d1772c5
+”	php:S4833Œ"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8êáıÆ2J$c4e65731-11dd-4dda-bbc8-bd5b71251b8b
+”	php:S4833›"LReplace "include" with namespace import mechanism through the "use" keyword.(ÎØ˜şÿÿÿÿ8Ó£±‘Æ2J$f5a834d7-a5fc-4b1b-a951-86ac4c7262f8

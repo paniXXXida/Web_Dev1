@@ -1,7 +1,7 @@
 
-h	php:S2003"&Replace "include" with "include_once".(Âàº€8£ë•ŽÆ2J$351e87a7-d3da-4b5a-8883-02f54dd25ec0
-h	php:S2003#"&Replace "include" with "include_once".(®ºìÄ8£ë•ŽÆ2J$a6e6c426-9602-454a-8012-d177e8fcb3f8
-r	php:S6600"0Remove the parentheses from this "include" call.(Âàº€8£ë•ŽÆ2J$c5c174ff-cc1b-460a-bab3-df22e8c5f792
-r	php:S6600#"0Remove the parentheses from this "include" call.(®ºìÄ8£ë•ŽÆ2J$87bce25f-ce66-4317-bc7b-47c1da79c446
-Ž	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Âàº€8£ë•ŽÆ2J$f77c16b3-ab5a-426e-9f74-9d3b68180fe4
-Ž	php:S4833#"LReplace "include" with namespace import mechanism through the "use" keyword.(®ºìÄ8£ë•ŽÆ2J$465dab16-5f26-4356-8081-e99e70083318
+h	php:S2003"&Replace "include" with "include_once".(Âàº€8£ë•ŽÆ2J$522b8eb3-babd-4740-a763-a4a24ec8cabe
+h	php:S2003#"&Replace "include" with "include_once".(®ºìÄ8£ë•ŽÆ2J$4a6dfad0-06e3-4cfb-92dc-ac48f48e8874
+r	php:S6600"0Remove the parentheses from this "include" call.(Âàº€8£ë•ŽÆ2J$e4044184-28cb-4cda-83f7-890d4d5aae9a
+r	php:S6600#"0Remove the parentheses from this "include" call.(®ºìÄ8£ë•ŽÆ2J$66c9232c-bac2-45a2-8a5f-19fb2c2a1bc7
+Ž	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Âàº€8£ë•ŽÆ2J$15f29845-af3e-4567-9452-83bf8d20c2cf
+Ž	php:S4833#"LReplace "include" with namespace import mechanism through the "use" keyword.(®ºìÄ8£ë•ŽÆ2J$e882207b-423b-4009-9eb2-7f8a24fede89

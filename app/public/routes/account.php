@@ -1,5 +1,5 @@
 <?php
-// routes/account.php
+
 require_once(__DIR__ . "/../controllers/AppointmentController.php");
 use controllers\AppointmentController;
 

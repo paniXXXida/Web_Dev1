@@ -15,6 +15,6 @@
 <?php include('views/partials/login_page_content.php')?>
 <?php include('views/partials/footer.php')?>
 
-<script src="/assets/javascript/main.js"></script>
+
 </body>
 </html>

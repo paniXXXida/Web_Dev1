@@ -136,7 +136,7 @@
         <div class="swiper-button-prev"></div>
     </div>
 </div>
-<!-- Swiper JS -->
+
 <!-- Initialize Swiper -->
 <script>
     var swiper = new Swiper(".mySwiper", {
@@ -149,6 +149,5 @@
         },
     });
 </script>
-<script src="../assets/javascript/menu.js"></script>
 </body>
 </html>

@@ -150,12 +150,8 @@ class AppointmentController
             exit();
         }
 
-
         $appointments = (new Appointment())->findByUserId($userId);
 
-        // 3) Подключаем шаблон, передавая $appointments в account.php
-        // Обратите внимание, переменная будет доступна в шаблоне
-        // как $appointments
         include __DIR__ . "/../views/pages/{$view}.php";
     }
 }

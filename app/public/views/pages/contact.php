@@ -61,7 +61,5 @@
     </div>
 </div>
 <?php include('views/partials/footer.php')?>
-<!-- Swiper JS -->
-<script src="../script/menu.js"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 <?php
-// routes/doctor_services.php
+
 
 require_once(__DIR__ . "/../controllers/ServiceController.php");
 use controllers\ServiceController;

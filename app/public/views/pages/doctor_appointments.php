@@ -42,6 +42,5 @@
     </main>
     <?php include('views/partials/footer.php')?>
 </div>
-<script src="../script/menu.js"></script>
 </body>
 </html>
