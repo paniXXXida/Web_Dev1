@@ -21,7 +21,7 @@
                 <div class="account-application">
                     <div class="account-application__info">
                         <h2>Talon №<?= $client['id'] ?></h2>
-                        <button class="btn"><a target="_blank" href="/edit-appointment?id=<?= $client['id']?>">Edit</a></button>
+                        <button class="btn"><a target="_blank" href="/edit_appointment?id=<?= $client['id']?>">Edit</a></button>
                     </div>
                     <div class="account-application__info">
                         <p><b>Name: </b><?= $client['name'] ?></p>

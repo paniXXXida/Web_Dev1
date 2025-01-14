@@ -73,9 +73,6 @@ $isUserClient = isset($user['user_type']) && $user['user_type'] == 0;
                     <span><a <?= $urlPath == '/doctor_services' ? 'class="active"': '' ?> href="/doctor_services">Your services</a></span>
                 <?php endif;?>
 
-                <?php if($isUserLoggined):?>
-                    <span><a <?= $urlPath == '/profile' ? 'class="active"': '' ?> href="/profile">Profile</a></span>
-                <?php endif;?>
             </div>
 
             <?php if ($isUserLoggined):?>

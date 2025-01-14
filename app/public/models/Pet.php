@@ -1,6 +1,7 @@
 <?php
 
 namespace models;
+use PDO;
 require_once(__DIR__ . "/Model.php");
 class Pet extends Model
 {

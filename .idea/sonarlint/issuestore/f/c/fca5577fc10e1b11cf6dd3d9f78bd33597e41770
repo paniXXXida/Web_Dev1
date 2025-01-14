@@ -1,7 +1,8 @@
 
-yWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ÌÍ…ÿÿÿÿÿ8°Ğä•Á2J$f667fd3f-f9c8-400a-b3ba-331372d91cf8
-h	php:S2003"&Replace "include" with "include_once".(Ë‰ƒ8×Ğä•Á2J$715c46d3-4cec-4683-b35b-566364855f08
-m	php:S2003 "&Replace "include" with "include_once".(ğŸıÿÿÿÿ8×Ğä•Á2J$89073aae-ec17-4120-8818-bb7f5d914fde
-w	php:S6600 "0Remove the parentheses from this "include" call.(ğŸıÿÿÿÿ8×Ğä•Á2J$242e671e-6891-45e1-983c-e4607106570d
-	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Ë‰ƒ8×Ğä•Á2J$21f53db9-a9d2-4ea0-93ba-dfd19d0c4ff8
-“	php:S4833 "LReplace "include" with namespace import mechanism through the "use" keyword.(ğŸıÿÿÿÿ8×Ğä•Á2J$e297e820-adea-4126-a5f9-0ae7d3567dc8
+yWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ÌÍ…ÿÿÿÿÿ8°Ğä•Á2J$f872d914-0582-4ca6-b1fd-8d86b16d0d1a
+h	php:S2003"&Replace "include" with "include_once".(Ë‰ƒ8×Ğä•Á2J$4b945cae-f7f4-4fe1-ab5c-26aad4eed8e1
+m	php:S2003 "&Replace "include" with "include_once".(ğŸıÿÿÿÿ8×Ğä•Á2J$935ffa11-708e-404e-b8ea-6095230deaee
+r	php:S6600"0Remove the parentheses from this "include" call.(Ë‰ƒ8¸¾üÆ2J$af6c3d35-0aa3-499a-8a1f-fb5eb73366ee
+w	php:S6600 "0Remove the parentheses from this "include" call.(ğŸıÿÿÿÿ8×Ğä•Á2J$d8aebd36-2aca-4f53-99e8-bcbe3e2a6e85
+	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Ë‰ƒ8×Ğä•Á2J$b6198268-77ff-4fad-8034-6cb5df4b3b55
+“	php:S4833 "LReplace "include" with namespace import mechanism through the "use" keyword.(ğŸıÿÿÿÿ8×Ğä•Á2J$17dafc6f-f0ba-47f5-a803-ab877695f00e

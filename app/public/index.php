@@ -33,7 +33,6 @@ require_once(__DIR__ . "/routes/doctor_services.php");
 require_once(__DIR__ . "/routes/edit_appointment.php");
 require_once(__DIR__ . "/routes/index.php");
 require_once(__DIR__ . "/routes/login.php");
-require_once(__DIR__ . "/routes/profile.php");
 require_once(__DIR__ . "/routes/register.php");
 
 /**

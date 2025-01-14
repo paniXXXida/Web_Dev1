@@ -76,10 +76,11 @@ class UserController
     {
         $doctors = (new User())->findDoctors();
 
-        foreach ($doctors as &$doctor) {
-            $doctor['services'] = (new Service())->findByDoctorId($doctor['id']);
+        foreach ($doctors as $key => $doctor) {
+            $doctors[$key]['services'] = (new Service())->findByDoctorId($doctor['id']);
         }
 
         include "views/pages/{$view}.php";
     }
+
 }

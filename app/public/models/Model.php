@@ -9,9 +9,14 @@ class Model
 
     public function __construct()
     {
-        $dbOptions = ['host' => 'mysql', 'dbname' => 'developmentdb', 'user' => 'developer', 'password' => "secret123"];
+        $dbOptions = [
+            'host' => 'mysql',
+            'dbname' => 'developmentdb',
+            'user' => 'developer',
+            'password' => "secret123"
+        ];
 
-        $this->pdo = new PDO(
+        $this->pdo = new \PDO(
             'mysql:host=' . $dbOptions['host'] . ';dbname=' . $dbOptions['dbname'],
             $dbOptions['user'],
             $dbOptions['password']

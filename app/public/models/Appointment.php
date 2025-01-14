@@ -1,8 +1,9 @@
 <?php
 
 
-
 namespace models;
+use PDO;
+
 require_once(__DIR__ . "/Model.php");
 class Appointment extends Model
 {
@@ -41,13 +42,32 @@ class Appointment extends Model
      */
     public function update(array $data): bool
     {
-        $date = $data['date'];
-        $id   = $data['id'];
+        // Проверка наличия необходимых полей
+        if (empty($data['id']) || empty($data['date'])) {
+            error_log('Missing id or date in update.');
+            return false;
+        }
 
-        $sql = "UPDATE ".self::table." SET date = '$date' WHERE id= $id";
-        $stmt= $this->pdo->prepare($sql);
+        $sql = "UPDATE " . self::table . " SET date = :date WHERE id = :id";
+        $stmt = $this->pdo->prepare($sql);
+        $stmt->bindParam(':date', $data['date'], PDO::PARAM_STR);
+        $stmt->bindParam(':id', $data['id'], PDO::PARAM_INT);
 
-        return $stmt->execute();
+        try {
+            $result = $stmt->execute();
+            error_log("Execute result for appointment ID {$data['id']}: " . ($result ? 'Success' : 'Failure'));
+
+            if ($result && $stmt->rowCount() > 0) {
+                error_log("Appointment ID {$data['id']} updated successfully.");
+                return true;
+            } else {
+                error_log("No rows updated for appointment ID: {$data['id']}.");
+                return false;
+            }
+        } catch (\PDOException $e) {
+            error_log('PDOException in update: ' . $e->getMessage());
+            return false;
+        }
     }
 
     /**

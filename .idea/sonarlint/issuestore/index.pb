@@ -100,3 +100,5 @@ Y
 )app/public/controllers/UserController.php,a\2\a2704d0140c645e0f3682888cb1abe3232c166ac
 c
 3app/public/assets/javascript/doctor_services_api.js,7\d\7d478f25abdf4e2d92500c6a1d7dc769b450e907
+f
+6app/public/assets/javascript/delete_appointment_API.js,3\4\34e2d3e26ae3cfb40b405a83a1a1493d3dce651a

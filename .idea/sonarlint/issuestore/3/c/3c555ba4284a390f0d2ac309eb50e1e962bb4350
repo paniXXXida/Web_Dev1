@@ -1,6 +1,6 @@
 
-~php:S105"EReplace all tab characters in this file by sequences of white-spaces.8Ÿ®µ‘Å2J$f964518f-e8cf-4df0-a131-86bc6fd8d7da
-¡php:S115"[Rename this constant "table" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(±ãšæøÿÿÿÿ8ŒûåË¿2J$5f8af383-5fd4-499b-a2a0-6a8c5438d397
-`php:S113"'Add a new line at the end of this file.8­®µ‘Å2J$acba819a-cac1-4a2b-ad97-78d631de9a3c
-V	php:S6600"5Remove the parentheses from this "require_once" call.(ŒôğÖşÿÿÿÿ8êõ’Å2
-r	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ŒôğÖşÿÿÿÿ8êõ’Å2
+~php:S105"EReplace all tab characters in this file by sequences of white-spaces.8Ÿ®µ‘Å2J$9239fd5a-e53f-4383-8274-7cbec30a025f
+¡php:S115"[Rename this constant "table" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(±ãšæøÿÿÿÿ8ŒûåË¿2J$3dc9c10e-e816-4bf1-b1a3-2a1c70c960e4
+`php:S113"'Add a new line at the end of this file.8­®µ‘Å2J$39d0f0b7-fa76-41a9-a516-a453797cf8ab
+|	php:S6600"5Remove the parentheses from this "require_once" call.(ŒôğÖşÿÿÿÿ8êõ’Å2J$d7252fda-7fc0-4c4c-a997-b17369d7ed52
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ŒôğÖşÿÿÿÿ8êõ’Å2J$f5e76d87-42b4-407e-92c1-8b15b153770e

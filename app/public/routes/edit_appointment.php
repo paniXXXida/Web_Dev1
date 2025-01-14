@@ -3,9 +3,9 @@
 
 use Controllers\AppointmentController;
 
-// Показ страницы редактирования (GET) - если нужно
+// Показ страницы редактирования (GET)
 Route::add('/edit_appointment', function () {
-    require __DIR__ . '/../views/pages/edit_appointment.php';
+    (new AppointmentController())->showEditAppointment();
 }, 'GET');
 
 // Обработка формы редактирования (POST)
