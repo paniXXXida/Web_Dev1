@@ -66,51 +66,5 @@ class User extends Model
         return $stmt->fetchAll(\PDO::FETCH_ASSOC);
     }
 
-    /**
-     * @param int $userId
-     * @return string
-     */
-    public function updateImg(int $userId): string
-    {
-        $validExtensions = ['jpeg', 'jpg', 'png', 'gif', 'bmp'];
-        $targetDir = 'upload_images/';
 
-        $ext = explode('.', $_FILES['img']['name'])[1];
-
-        if (in_array($ext, $validExtensions)) {
-            $newNameImg = time() . '.' . $ext;
-
-            $targetFile = $targetDir . $newNameImg;
-
-            $imgName = null;
-            if (move_uploaded_file($_FILES['img']['tmp_name'], $targetFile)) {
-                $imgName = $newNameImg;
-            } else {
-                $targetFile = '';
-            }
-
-            $sql  = "UPDATE ". self::table ." SET img_name = '$imgName' WHERE id= $userId";
-            $stmt = $this->pdo->prepare($sql);
-            $stmt->execute();
-        } else {
-            $targetFile = '';
-        }
-
-        return $targetFile;
-    }
-
-    /**
-     * @param int $userId
-     *
-     * @return array
-     */
-    public function getImageByUserId(int $userId): array
-    {
-        $sql = "SELECT img_name FROM ".self::table." WHERE id = $userId";
-
-        $stmt = $this->pdo->prepare($sql);
-        $stmt->execute();
-
-        return $stmt->fetch(\PDO::FETCH_ASSOC);
-    }
 }

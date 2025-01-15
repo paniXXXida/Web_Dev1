@@ -49,28 +49,6 @@ class UserController
         header('Location: /');
     }
 
-    public function showProfile(string $view)
-    {
-        $userId = $_SESSION['user']['id'];
-
-        if ($userId == null) {
-            header('Refresh:2; url=/login');
-            echo 'You must log in for this page. Redirected in 2s';
-            exit();
-        }
-
-        $imgName = (new User())->getImageByUserId($userId);
-        include "views/pages/{$view}.php";
-    }
-
-    public function updateProfile()
-    {
-        $userId = $_POST['user_id'];
-        $user = new User();
-
-        $newImageName = $user->updateImg($userId);
-        echo json_encode(['src' => $newImageName]);
-    }
 
     public function showDoctors(string $view)
     {

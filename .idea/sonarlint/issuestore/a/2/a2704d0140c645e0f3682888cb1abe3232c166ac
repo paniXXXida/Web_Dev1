@@ -1,10 +1,7 @@
 
-n	php:S1481>"-Remove this unused "$imgName" local variable.(—Œ°18È¦ê“Å2J$f522757e-a7f4-443f-a9c2-a5a2ddc7d960
-m	php:S2003?"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8È¦ê“Å2J$53113e85-988c-404e-ba09-63dd931f5ea2
-m	php:S2003S"&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ë±õÆ2J$76679acc-46b6-462b-86d1-c2046a083254
-|	php:S6600"5Remove the parentheses from this "require_once" call.(›¹Şïûÿÿÿÿ8È¦ê“Å2J$d5fd33a1-57bc-4036-971d-98b41411c639
-|	php:S6600"5Remove the parentheses from this "require_once" call.(ƒÈÄıÿÿÿÿ8¯’ğ“Å2J$41398c2f-7442-45af-9e89-5ab06e549024
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(›¹Şïûÿÿÿÿ8È¦ê“Å2J$feacd8c7-da94-4a66-8304-a0d5362243fb
-˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ƒÈÄıÿÿÿÿ8¯’ğ“Å2J$275d5466-bc18-45a5-bfdd-fd0094f4529e
-“	php:S4833?"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8È¦ê“Å2J$c670d83b-6dc9-4358-866e-a333cde80601
-“	php:S4833S"LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8ë±õÆ2J$3049cae9-29a1-4280-83b8-00de1a38670b
+m	php:S2003="&Replace "include" with "include_once".(÷ÙËıúÿÿÿÿ8ë±õÆ2J$c25db8a6-e500-4524-a231-65f8ebee732c
+|	php:S6600"5Remove the parentheses from this "require_once" call.(›¹Şïûÿÿÿÿ8È¦ê“Å2J$6d10cf0e-7373-47f7-9b43-52f9dcaf299b
+|	php:S6600"5Remove the parentheses from this "require_once" call.(ƒÈÄıÿÿÿÿ8¯’ğ“Å2J$e7affded-c9ba-43e3-a2ad-6422041046bd
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(›¹Şïûÿÿÿÿ8È¦ê“Å2J$1a170c58-07ef-4198-896e-a410d3c68d3f
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ƒÈÄıÿÿÿÿ8¯’ğ“Å2J$ebb0ff12-126b-4d9e-83fc-2561b1cee527
+“	php:S4833="LReplace "include" with namespace import mechanism through the "use" keyword.(÷ÙËıúÿÿÿÿ8ë±õÆ2J$38d9807d-c14b-495f-8aaa-bfb4066198d8

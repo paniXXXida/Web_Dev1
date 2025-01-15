@@ -10,8 +10,6 @@ D
 app/public/index.php,d\f\df187f96b153386aefda0ec4775d5524cf695467
 >
 PHP.Dockerfile,b\2\b237dce4c8a76d56b7cdfe507e61f82336214311
-T
-$app/public/assets/javascript/main.js,f\d\fde72041bc99ba6eecf71fb57a1b51fbb5bb506e
 O
 app/public/assets/css/style.css,6\2\629859b7ca2aed20c16ffa6915cf0739e063bed7
 K
@@ -54,8 +52,6 @@ c
 3app/public/views/partials/register_page_content.php,1\b\1bcf5f461c71c77a73433938630d37f59cc233a7
 N
 app/public/routes/register.php,4\c\4cb31833ee954a980de3dcd60092edcb3d38ecc6
-R
-"app/public/views/pages/profile.php,f\c\fca5577fc10e1b11cf6dd3d9f78bd33597e41770
 R
 "app/public/views/pages/account.php,9\8\980316ea06c4ec411c9fcd84542619b1657e3db6
 M

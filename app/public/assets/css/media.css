@@ -2,16 +2,17 @@
     .card-for-us{
         grid-template-columns: 49% 49%;
     }
+    .wrap-menu.container {
+        max-width: 100% !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
     .contact{
         display: none;
     }
-    .main-menu>.wrap-menu{
-        display: none;
-        position: fixed;
-        background:#2b7572;
-        height: 100%;
-        width: 100%;
-        top: 0;
+    .main-menu > .wrap-menu.d-flex {
+        display: none !important;
     }
     .wrap-menu div{
         display: flex;
